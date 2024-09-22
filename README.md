@@ -1,4 +1,5 @@
 # greghannah_test
 
-This is GREG's project.  Hannah is not allowed.
+This is MINE.
 
+This is HANNAH's project. No Gregs allowed!!!
